@@ -88,3 +88,8 @@
   padding: 0 0.25rem;
 }
 
+.commentLike  {
+  display: flex;
+  justify-content: space-between;
+  
+}
